@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a02d48af-ebe6-4f19-bd03-42c44d11d1e5" name="Changes" comment="First commit hatalar var">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a02d48af-ebe6-4f19-bd03-42c44d11d1e5" name="Changes" comment="Bilinen hatalar duzeltildi.">
       <change beforePath="$PROJECT_DIR$/src/MineSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MineSweeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678050555161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bilinen hatalar duzeltildi.">
+      <created>1678088314877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088314877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit hatalar var" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit hatalar var" />
+    <MESSAGE value="Bilinen hatalar duzeltildi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bilinen hatalar duzeltildi." />
   </component>
 </project>

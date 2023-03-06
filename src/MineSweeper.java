@@ -1,4 +1,3 @@
-import java.sql.PseudoColumnUsage;
 import java.util.*;
 public class MineSweeper {
     static String[][] gamePlay(String gameMap[][],String mineMap[][],int x,int y,int satir,int sutun){
@@ -84,7 +83,7 @@ public class MineSweeper {
                     System.out.print("---------------------------\n");
                     printMap(playMap, x, y);
                     System.out.print("---------------------------\n");
-                } else if ((playMap[satir][sutun].equals("k"))) {
+                } else if ((playMap[satir][sutun].equals("*"))) {
                     i = 1;
                     System.out.print("---------------------------\n");
                     printMap(playMap, x, y);
